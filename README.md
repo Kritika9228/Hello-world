@@ -1,2 +1,2 @@
 # Hello-world
-First step to git-hub
+I am new to front-end- programming. Very excited to learn more and more
